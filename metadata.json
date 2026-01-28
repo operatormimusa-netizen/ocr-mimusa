@@ -1,0 +1,5 @@
+{
+  "name": "OCR Kartu Keluarga MIMUSA",
+  "description": "Aplikasi OCR cerdas berbasis AI untuk memindai dan mengekstrak data dari foto Kartu Keluarga (KK) Indonesia menjadi format digital yang terstruktur.",
+  "requestFramePermissions": []
+}
